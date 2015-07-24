@@ -1,10 +1,10 @@
 {
-    "name": "xeoncross/dbyte",
+    "name": "web777/dbyte",
     "description": "A 1kb, MySQL/SQLite/PostgreSQL database library",
     "type": "library",
     "license": "MIT",
     "keywords": ["database","sqlite","mysql","postgresql","pdo"],
-    "homepage": "http://github.com/Xeoncross/DByte",
+    "homepage": "http://github.com/web777/DByte",
     "authors": [
         {
             "name": "David Pennington",
